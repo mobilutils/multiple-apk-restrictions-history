@@ -1,0 +1,5 @@
+# will ignore the artifact doing the job
+apk-restrictions-extract/
+.qwen/
+QWEN.md
+
